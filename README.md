@@ -1,16 +1,18 @@
-# 🧩 - Analisador de Imagem Puzzle 0.02BTC
+# 🧩 Puzzle 0.02BTC - Analisador de Imagem 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Puzzle](https://img.shields.io/badge/Script-Puzzle%20Analyzer-ff69b4.svg)](https://github.com/)
 
 ## Frase do Puzzle
 
-> _“Today I wanted to do something special. I’ve been in Bitcoin for many years now. And I’ve loved it. I want to have you all the chance to win 0.02 bitcoin ≈ $2,000.00 best of luck to you all. Everything for the private key can be found within this message.
+> **Today I wanted to do something special.** I’ve been in Bitcoin for many years now and I’ve loved it.  
+> I want to give you all the chance to win 0.02 BTC ≈ $2,000.00. Best of luck to you all!  
+> Everything for the private key can be found within this message.  
+> **Address (proof of funds):** [bc1qr5mssp6snmduqp9enx4dzmcxvk7qw83lceyy2v](https://www.blockchain.com/pt/explorer/addresses/btc/bc1qr5mssp6snmduqp9enx4dzmcxvk7qw83lceyy2v)
 
-Address⬇️ showing proof of funds. 9vw04
-
-bc1qr5mssp6snmduqp9enx4dzmcxvk7qw83lceyy2v”
 Link original: https://x.com/Graduallyp/status/1870319691295764655
+ 
+![Puzzle 0.02 BTC](GfS12G-WUAE_Lt2.jpeg)  
 
 ## Sumário
 
