@@ -14,6 +14,8 @@ Link original: https://x.com/Graduallyp/status/1870319691295764655
  
 ![Puzzle 0.02 BTC](GfS12G-WUAE_Lt2.jpeg)  
 
+[**Mais em canalqb:**](http://bit.ly/3Ly5faw)  
+
 ## Sumário
 
 * [1. Introdução ao Puzzle](#1-introdução-ao-Puzzle)
