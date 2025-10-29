@@ -14,14 +14,14 @@ Link original: https://x.com/Graduallyp/status/1870319691295764655
 
 ## Sumário
 
-* [1. Introdução ao Teorema](#1-introdução-ao-teorema)
+* [1. Introdução ao Puzzle](#1-introdução-ao-Puzzle)
   * [1.1 Resumo](#11-resumo)
   * [1.2 Exemplos Práticos](#12-exemplos-práticos)
   * [1.3 Explicação Detalhada](#13-explicação-detalhada)
   * [1.4 Aplicações](#14-aplicações)
   * [1.5 Análise da Tabela](#15-análise-da-tabela)
 * [2. Script `puzzle_analyzer.py`](#2-script-puzzle_analyzerpy)
-  * [2.1 Relação com o Teorema](#21-relação-com-o-teorema)
+  * [2.1 Relação com o Puzzle](#21-relação-com-o-Puzzle)
   * [2.2 Objetivo do Script](#22-objetivo-do-script)
   * [2.3 Exemplo de Saída](#23-exemplo-de-saída)
   * [2.4 Funcionamento Interno](#24-funcionamento-interno)
@@ -35,7 +35,7 @@ Link original: https://x.com/Graduallyp/status/1870319691295764655
 
 ---
 
-## 1 Introdução ao Teorema
+## 1 Introdução ao Puzzle
 
 ### 1.1 Resumo
 Este script analisa imagens dividindo-as em pequenas células e identifica quais cores **não estão dentro do espectro do arco-íris**. Depois, combina estas cores para criar **WIFs demonstrativos** (tipo chaves privadas Bitcoin) e também calcula um **pseudo-inverso baseado em Mersenne**.
@@ -70,8 +70,8 @@ O script imprime no console tabelas com:
 
 ## 2 Script `puzzle_analyzer.py`
 
-### 2.1 Relação com o Teorema
-Embora não seja um teorema matemático clássico, o script se baseia em **lógica de conjuntos e probabilidade** para identificar cores fora de um espectro definido.
+### 2.1 Relação com o Puzzle
+Embora não seja um Puzzle matemático clássico, o script se baseia em **lógica de conjuntos e probabilidade** para identificar cores fora de um espectro definido.
 
 ### 2.2 Objetivo do Script
 Gerar uma forma de representar dados visuais (cores fora do arco-íris) como **chaves criptográficas demonstrativas**, permitindo criar puzzles baseados em imagens.
