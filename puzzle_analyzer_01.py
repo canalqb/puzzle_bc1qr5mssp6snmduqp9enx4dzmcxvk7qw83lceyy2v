@@ -13,7 +13,7 @@ import hashlib
 import base58
 
 # === CONFIGURAÇÕES ===
-IMG_PATH = "puzzle.jpeg"  # Caminho da imagem
+IMG_PATH = "GfS12G-WUAE_Lt2.jpeg"  # Caminho da imagem
 ROWS = 21  # Número fixo de linhas
 
 # Faixas de matiz (Hue) do arco-íris — cobrindo todo o espectro visível
