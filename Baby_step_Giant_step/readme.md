@@ -11,6 +11,10 @@
 
 ---
 
+![Puzzle 0.02 BTC](mask_debug.jpg)  
+
+---
+
 ## 📜 Sumário
 
 * [1. Introdução à Criptografia](#1-introdução-à-criptografia)
